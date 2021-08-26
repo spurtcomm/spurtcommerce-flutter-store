@@ -1,6 +1,6 @@
 ![alt text](/img/spurtcommerce-b2c-b2b.png "spurtcommerce Logo")
 
-# Ecommerce / Nodejs + Angular + Mysql 
+# Ecommerce / Nodejs + Flutter + Mysql
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/spurtcommerce/spurtcommerce)
 ![GitHub issues](https://img.shields.io/github/issues/spurtcommerce/spurtcommerce)
@@ -18,34 +18,11 @@ Spurtcommerce Community Edition is publicly available on GitHub and free to down
 
 | Community Version 3.1 | Feature | URL |
 | ------ | ------ | ------ |
-| NodeJS Back End API + Angular | Get the best eCommerce solution with the state-of-the-art tech stack – the NodeJS Back-end API and the Angular front end and customize a standard eCommerce portal.| [Download](https://accounts.spurtcommerce.com/)
-| NodeJS Back End API + React | Looking for a solution that can result in a sophisticated React Storefront with a powerful back-end API on NodeJS Express Framework? | [Download](https://accounts.spurtcommerce.com/)
-| NodeJS Back End API + Flutter |If you want to customize a Flutter Mobile App and have a robust back-end API on the latest NodeJS, you are here now at the right place. Go for it.|[Download](https://accounts.spurtcommerce.com/)
+| NodeJS Back End API + Angular | Get the best eCommerce solution with the state-of-the-art tech stack – the NodeJS Back-end API and the Angular front end and customize a standard eCommerce portal.| [Download](https://www.spurtcommerce.com/nodejs-shoppingcart-ecommerce-download)
+| NodeJS Back End API + React | Looking for a solution that can result in a sophisticated React Storefront with a powerful back-end API on NodeJS Express Framework? | [Download](https://www.spurtcommerce.com/nodejs-shoppingcart-ecommerce-download)
+| NodeJS Back End API + Flutter |If you want to customize a Flutter Mobile App and have a robust back-end API on the latest NodeJS, you are here now at the right place. Go for it.|[Download](https://www.spurtcommerce.com/nodejs-shoppingcart-ecommerce-download)
 
 
-
-
-
-#  ❯ Spurtcommerce Pro Edition version  4.6
-
-Looking out to develop a high performing and highly scalable full-fledged eCommerce platform that matches with the recent eCommerce trend? Spurtcommerce 'Pro' Edition comes with all the advanced features of a full-fledged eCommerce platform. The features have been thoughtfully introduced, keeping the current and the upcoming eCommerce trend in mind. 
-
-### ❯ Spurtcommerce B2C / B2B Market Place Solutions
-If you are looking for a B2B/B2C Marketplace Solutions with a powerful Back End API of NodeJS and an ultra-modern front end on Angular, then the Spurtcommerce Multi-Vendor Solution with Angular Web Storefront is the best solution that can help you customize a revolutionary eCommerce Portal. With this solution you get the Admin Folder, API Folder, Vendor Folder, Spurtcommerce-marketplace.sql and Storefront Folder.
-
-![alt text](/img/spurtcommerce-multivendor.png "spurtcommerce Logo")
-
-### ❯ Spurtcommerce B2C / B2B Mobile App
-Mobile eCommerce or M-Commerce is now trending and having a Mobile App Storefront and giving End-Customers a facility to shop on their Mobile is something that needs to be thought about. With Spurtcommerce Multi-Vendor Marketplace or Spurtcommerce Single Vendor, you can opt for the Mobile App Storefront on Ionic framework for Hybrid Mobile Apps – both Android and iOS. With Single Vendor Solution, you get the Admin Folder, API Folder, Spurtcommerce.sql, storefront folder and Mobile folder. With Multi-Vendor Solution, you get the Admin Folder, API Folder, Vendor Folder, Marketplace.sql, Storefront folder and Mobile Folder.
-
-![alt text](/img/spurtcommerce-mobileapp.png "spurtcommerce Logo")
-
-
-### ❯ Spurtcommerce B2C / B2B Single Vendor Solutions
-If you are looking for an advanced solution with full-fledged features for an online store where only its owner is selling their niche products, then go for our Single Vendor Solution with Angular Storefront. Customize this solution and develop an eCommerce portal that is futuristic in nature. With this solution, you get the Admin Folder, API Folder, Spurtcommerce.sql and Storefront Folder.
-
-
-![alt text](/img/spurtcommerce-singlevendor.png "spurtcommerce Logo")
 
 # ❯ TechStack
 Spurtcommerce has been developed using the open source and futuristic technologies. Spurtcommerce is built using the open source frameworks of NodeJS and Angular, which are the niche and futuristic technologies. Spurtcommerce is an open source eCommerce solution, built for a cause of bringing an advancement in the field of eCommerce development, that will result in a high speed and good performing eCommerce application.
